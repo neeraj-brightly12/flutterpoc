@@ -8,9 +8,15 @@ A new Flutter project.
 <!-- Enviornment setup document : -->
  https://docs.flutter.dev/install/manual
 
-<!-- Command to run app  -->
+<!-- Command to run android app  -->
 flutter clean
 flutter pub get
+flutter run 
+<!-- Command to run android app  -->
+flutter pub get
+cd ios
+pod install
+cd..
 flutter run 
 
 <!-- Generate debug apk -->
