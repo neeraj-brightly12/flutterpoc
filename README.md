@@ -12,7 +12,7 @@ A new Flutter project.
 flutter clean
 flutter pub get
 flutter run 
-<!-- Command to run android app  -->
+<!-- Command to run ios app  -->
 flutter pub get
 cd ios
 pod install
