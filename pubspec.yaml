@@ -68,7 +68,7 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
-  - assets/splash.png
+  # - assets/splash.png
   - assets/movies.json
   # flutter_native_splash:
   # color: "#ffffff"
